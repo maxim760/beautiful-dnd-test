@@ -1,6 +1,6 @@
 import React from "react";
 import { Draggable } from "react-beautiful-dnd";
-import { ITask } from "../../utils/constants";
+import { ITask } from "../../types";
 import { TaskWrapper } from "../UI";
 
 interface TaskProps {
